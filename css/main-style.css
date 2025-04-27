@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#hero
+{
+	width: 100%;	
+	background-image: url("file:///Macintosh%20HD/Users/macmarket/Documents/porfolio%20Tr%C3%AD%20Ngh%C4%A9a/images-2/bg-hero.jpg");
+	background-repeat: no-repeat; background-size: cover
+
+}
+
+#testimonial
+{
+	width: 100%;	
+	background-image:url("#");
+	background-repeat: no-repeat; background-size: cover
+}
